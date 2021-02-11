@@ -1,0 +1,24 @@
+body{
+    background:linear-gradient(to right, rgb(255, 210, 151), antiquewhite, rgb(252, 171, 66)) ;
+    text-align: center;
+}
+.main {
+    border: rgb(180, 104, 5) solid 2px;
+    width: 450px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+}
+h1{
+    color: rgba(1, 1, 184, 0.87);
+}
+.button{
+    background-color: rgba(245, 27, 27, 0.883) ;
+    color: rgb(4, 83, 39);
+}
+#vow{
+    color: rgba(1, 128, 128, 0.959);
+}
+#result{
+    color: rgba(1, 128, 128, 0.959);
+}
